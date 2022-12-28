@@ -1,2 +1,2 @@
 # website
-Peronal Website
+Personal Website
